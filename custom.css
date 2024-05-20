@@ -1,0 +1,8 @@
+:root {
+	--Primary: #007DC2;
+}
+
+.v-application {
+	--v-primary-base: var(--Primary) !important;
+	--v-anchor-base: var(--Primary) !important;
+}

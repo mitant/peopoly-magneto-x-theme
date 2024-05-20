@@ -1,6 +1,13 @@
 # peopoly-magneto-x-theme
 A MainsailOS theme for Peopoly Magneto X 3D Printers
 
+# Screenshot
+![image](https://github.com/mitant/peopoly-magneto-x-theme/assets/13768420/dd76edae-18f6-4b9c-bc18-5b0bd464035e)
+
+# Features
+1. Peopoly Logo / Fav Icon
+2. Peopoly blue link/button color
+
 # Installation
 
 1. SSH into your Magneto X's pi
